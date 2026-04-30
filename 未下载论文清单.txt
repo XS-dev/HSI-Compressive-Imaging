@@ -1,0 +1,13 @@
+未下载论文清单
+================
+生成时间: 2026-04-20
+
+
+https://cvpr.thecvf.com/virtual/2026/poster/37176 | CVPR Poster Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels
+https://cvpr.thecvf.com/virtual/2026/poster/36782 | CVPR Poster EMR-Diff: Edge-aware Multimodal Residual Diffusion Model for Hyperspectral Image Super-resolution
+https://cvpr.thecvf.com/virtual/2026/poster/38216 | CVPR Poster Regulating Rather than Constraining: Adaptive Guidance for Complex Spectral Reconstruction in Pansharpening
+https://cvpr.thecvf.com/virtual/2026/poster/39268 | CVPR Poster MetaSpectra+: A Compact Broadband Metasurface Camera for Snapshot Hyperspectral+ Imaging
+https://cvpr.thecvf.com/virtual/2026/poster/37676 | CVPR Poster Spectrum from Defocus: Fast Spectral Imaging with Chromatic Focal Stack
+https://cvpr.thecvf.com/virtual/2026/poster/39747 | CVPR Poster SGDE: Self-supervised Geometry Degradation Estimation Framework for Coded Aperture Compressive Spectral Imaging
+https://cvpr.thecvf.com/virtual/2026/poster/39245 | CVPR Poster LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging
+https://cvpr.thecvf.com/virtual/2026/poster/37618 | CVPR Poster Exploring Spatiotemporal Feature Propagation for Video-Level Compressive Spectral Reconstruction: Dataset, Model and Benchmark

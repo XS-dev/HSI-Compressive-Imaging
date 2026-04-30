@@ -1,0 +1,87 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.pyc
+
+# ============================================================
+# IDE & Editor
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================================================
+# OS
+# ============================================================
+.DS_Store
+Thumbs.db
+
+# ============================================================
+# Claude / AI
+# ============================================================
+.claude/
+
+# ============================================================
+# Downloaded papers (PDFs are large)
+# ============================================================
+downloaded_papers/**/*.pdf
+
+# ============================================================
+# Dataset files (large, not for git)
+# ============================================================
+paper_reproduction/**/dataset/Train_Spec/**
+paper_reproduction/**/dataset/Train_RGB/**
+paper_reproduction/**/dataset/Test_RGB/**
+paper_reproduction/**/dataset/TSA_simu_data/**
+paper_reproduction/**/dataset/cave_1024_28/**
+paper_reproduction/**/dataset/CAVE_512_28/**
+paper_reproduction/**/dataset/KAIST_CVPR2021/**
+paper_reproduction/**/datasets/**
+paper_reproduction/**/Dynaspec/**
+paper_reproduction/**/CAVE_1024_28/**
+
+# ============================================================
+# Pretrained weights (large .pth files)
+# ============================================================
+paper_reproduction/**/model_zoo/**
+paper_reproduction/**/pre-trained/**
+paper_reproduction/**/checkpoints/**
+paper_reproduction/**/tsa_net/**
+
+# ============================================================
+# Experiment outputs (generated during training/testing)
+# ============================================================
+paper_reproduction/**/exp/**
+paper_reproduction/**/exp_batch/**
+paper_reproduction/**/exp_test/**
+paper_reproduction/**/Result/**
+paper_reproduction/**/Results/**
+paper_reproduction/**/results/**
+
+# ============================================================
+# Other large/generated files
+# ============================================================
+*.mat
+!paper_reproduction/**/mask.mat
+!paper_reproduction/**/mask_folder/**
+*.zip
+*.tar.gz
+*.rar
+*.pth
+*.log
+paper_reproduction/**/__pycache__/
+paper_texts.json
+reports/**/*.txt
+reports/**/*.md
+
+# ============================================================
+# Misc
+# ============================================================
+paper_tools/
+scripts_legacy/

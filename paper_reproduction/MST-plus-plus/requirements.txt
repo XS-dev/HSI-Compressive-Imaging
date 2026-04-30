@@ -1,0 +1,13 @@
+# MST++ Reproduction Environment
+# Updated for modern GPU (RTX 4090 / PyTorch 2.x)
+
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+opencv-python>=4.4.0
+einops
+scipy>=1.0.0
+h5py
+hdf5storage
+tqdm
+fvcore
